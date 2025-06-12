@@ -1,6 +1,6 @@
 // redirect.ts
 
-const redirectUrl = "http://srv235118.hoster-test.ru/eastrise/";
+const redirectUrl = "https://smson.online/cx5fl";
 
 Deno.serve(() =>
   new Response(null, {
